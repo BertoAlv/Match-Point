@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Paises">
+        <item>Pais</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Italia</item>
+        <item>Alemania</item>
+        <item>Portugal</item>
+    </string-array>
+
+    <string-array name="Rivales">
+        <item>Clara López</item>
+        <item>Marcos González</item>
+        <item>Antón Peña</item>
+        <item>Marta Fernández</item>
+        <item>Víctor García</item>
+    </string-array>
+
+    <integer-array name="Avatares">
+        <item>@drawable/avatar_anonimo5</item>
+        <item>@drawable/avatar_anonimo</item>
+        <item>@drawable/avatar_anonimo2</item>
+        <item>@drawable/avatar_anonimo4</item>
+        <item>@drawable/avatar_anonimo3</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/chat" android:title="Mensajes"
+        android:icon="@drawable/icono_mensaje_optimo"
+        app:showAsAction="always"/>
+    <item android:id="@+id/config" android:title="Configuración"
+        android:icon="@drawable/icono_config"
+        app:showAsAction="always"/>
+    <item android:id="@+id/logout" android:title="Cerrar Sesión"
+        android:icon="@drawable/icono_cerrar_sesion"
+        app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Match-Point</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="pregunta">¿Olvidaste tu contraseña?</string>
+    <string name="nueva_cuenta">Crear una cuenta</string>
+    <string name="registro">Formulario Registro</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="usuario">Nombre de Usuario</string>
+    <string name="correo">E-mail</string>
+    <string name="pais">Pais</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="title_busqueda">Explorar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>

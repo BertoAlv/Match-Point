@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home_page"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/fondo_inicio"
+        android:layout_marginBottom="25dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingHorizontal="30dp"
+        android:layout_marginTop="9dp">
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/foto_avatar_app"
+            android:layout_marginLeft="115dp"/>
+
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/icono_modificar"
+            android:layout_marginLeft="52dp"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvNombrePerfil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Marcos Fernández"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/abril_fatface"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aquí habrá una breve descripción."
+        android:textSize="15sp"
+        android:fontFamily="@font/bad_script"
+        android:layout_gravity="center"
+        android:layout_marginTop="4dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Datos personales"
+        android:fontFamily="@font/aclonica"
+        android:textColor="@color/fondo_inicio"
+        android:textSize="18sp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="55dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/fondo_inicio"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="1dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingHorizontal="30dp"
+        android:layout_marginTop="9dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edad :"
+            android:fontFamily="@font/aclonica"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="21"
+            android:fontFamily="@font/aclonica"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingHorizontal="30dp"
+        android:layout_marginTop="9dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nivel :"
+            android:fontFamily="@font/aclonica"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jugador Principiante"
+            android:fontFamily="@font/aclonica"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingHorizontal="30dp"
+        android:layout_marginTop="9dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="País :"
+            android:fontFamily="@font/aclonica"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="España"
+            android:fontFamily="@font/aclonica"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingHorizontal="30dp"
+        android:layout_marginTop="9dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ciudad :"
+            android:fontFamily="@font/aclonica"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pontevedra"
+            android:fontFamily="@font/aclonica"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingHorizontal="30dp"
+        android:layout_marginTop="9dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Disponible :"
+            android:fontFamily="@font/aclonica"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fin de semana"
+            android:fontFamily="@font/aclonica"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Últimos partidos - entrenamientos"
+        android:fontFamily="@font/aclonica"
+        android:textColor="@color/fondo_inicio"
+        android:textSize="18sp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="40dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/fondo_inicio"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="1dp" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
+
+</ScrollView>
