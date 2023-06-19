@@ -1,3 +1,3 @@
 ## Proyecto de app para móvil de tipo red social para jugadores de tenis usando AndroidStudio. 
 
-Esta fue mi primera aplicación creada desde cero. 
+Mi primer proyecto de app desde cero. Implementa Firebase como base de datos en la nube para el registro/autenticación de usuarios. 
