@@ -1,4 +1,4 @@
-## Mobile app project using Android Studio, which is a social networking platform specifically designed for tennis players.
+## Mobile app project which is a social networking platform specifically designed for tennis players.
 
 This is my first original app built from scratch. It implements Firebase, which works as remote database to store the user authentications and messages between users.
 
