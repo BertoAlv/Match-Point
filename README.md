@@ -1,30 +1,19 @@
-## Mobile app project which is a social networking platform specifically designed for tennis players.
+# Match-Point App
 
+Mobile app project which is a social networking platform specifically designed for tennis players.
 This was my first original app built from scratch. It implements Firebase, which works as remote database to store the user authentications and messages between users.
 
+## Authentication Screens
+Login             |  Registration
+:-------------------------:|:-------------------------:
+![Login Screen](https://i.imgur.com/mHt2P7n.png) | ![Registration Screen](https://i.imgur.com/dEXqgR9.png)
 
-<h3 align="center">First Screen</h3>
-<div align="center">
-<img src="https://i.imgur.com/mHt2P7n.png" width=300px/>
-  
-<br/>
+## Profile Screen
+<img src="https://i.imgur.com/IcOPR70.png" width=500px/>
 
-<h3 align="center">Sign-Up Screen</h3>
-<img src="https://i.imgur.com/dEXqgR9.png" width=300px/>
+## Home Screen
+<img src="https://i.imgur.com/LbKSBRc.png" width=500px/>
 
-<br/>
+## Search Screen
+<img src="https://i.imgur.com/GgS6uym.png" width=500px/>
 
-<h3 align="center">Profile Screen</h3>
-<img src="https://i.imgur.com/IcOPR70.png" width=300px/>
-
-<br/>
-
-<h3 align="center">Home Screen</h3>
-<img src="https://i.imgur.com/LbKSBRc.png" width=300px/>
-
-<br/>
-
-<h3 align="center">Search Screen</h3>
-<img src="https://i.imgur.com/GgS6uym.png" width=300px/>
-
-</div>
