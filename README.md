@@ -9,11 +9,11 @@ Login             |  Registration
 ![Login Screen](https://i.imgur.com/mHt2P7n.png) | ![Registration Screen](https://i.imgur.com/dEXqgR9.png)
 
 ## Profile Screen
-<img src="https://i.imgur.com/IcOPR70.png" width=500px/>
+<img src="https://i.imgur.com/IcOPR70.png" width=350px/>
 
 ## Home Screen
-<img src="https://i.imgur.com/LbKSBRc.png" width=500px/>
+<img src="https://i.imgur.com/LbKSBRc.png" width=350px/>
 
 ## Search Screen
-<img src="https://i.imgur.com/GgS6uym.png" width=500px/>
+<img src="https://i.imgur.com/GgS6uym.png" width=350px/>
 
